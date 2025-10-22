@@ -1,0 +1,5 @@
+opencv-python>=4.7.0
+mediapipe>=1.11.0
+pyserial>=3.6
+jupyter>=1.0.0
+numpy>=1.24.0
